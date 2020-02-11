@@ -1,3 +1,10 @@
+---
+title: "Random Forest"
+author: "Zhirou Zhou"
+date: "12/13/2019"
+output: html_document
+---
+
 ```{r random forest for is_illness}
 # Prepare 10-fold cross-validation blocked by Alias
 nfold = 10
